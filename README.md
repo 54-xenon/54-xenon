@@ -10,4 +10,4 @@ I’m aspiring to become a flutter engineer!
 ## Connect with me
 - [Twitter](https://x.com/M9zRs0VDM9RTU7B)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54-xeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54-xenon)](https://github.com/anuraghazra/github-readme-stats)
