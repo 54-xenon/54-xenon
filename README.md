@@ -7,7 +7,7 @@ I’m aspiring to become a flutter engineer!
 - **Frameeorks**: Flutter
 - **Tools**: Git, VScode
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 - [Twitter](https://x.com/M9zRs0VDM9RTU7B)
