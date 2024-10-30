@@ -5,7 +5,7 @@ I’m aspiring to become a flutter engineer!
 ## Skills
 - **Languages**: Dart
 - **Frameeorks**: Flutter
-- **Tools**: Git, VScode
+- **Tools**: Git, VScode, Xcode
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
