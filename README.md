@@ -1,7 +1,9 @@
 # Hello, I'm Apple信者@RAM不足👏
 
 I’m aspiring to become a flutter engineer!
-
+## 今年の目標
+- **GitHubのコントリビューションを緑化してジャングルにする**
+- **個人のアプリを3つリリースする**
 ## Skills
 - **Languages**: Dart
 - **Frameeorks**: Flutter
