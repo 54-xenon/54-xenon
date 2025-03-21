@@ -1,6 +1,7 @@
 # Hello, I'm Apple信者@RAM不足👏
 
 I’m aspiring to become a flutter engineer!
+目標はつよつよエンジニアになってモデル3パフォーマンスで通勤すること
 ## 今年の目標
 - **GitHubのコントリビューションを緑化してジャングルにする**
 - **個人のアプリを3つリリースする**
