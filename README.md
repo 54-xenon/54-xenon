@@ -5,9 +5,9 @@ I’m aspiring to become a Mobile engineer!
 - **GitHubのコントリビューションを緑化してジャングルにする**
 - **個人のアプリを3つリリースする**
 ## Skills
-- **Languages**: Dart, Java
-- **Frameeorks**: Flutter
-- **Tools**: Git, VScode, Xcode
+- **Languages**: Dart, Java, JavaScript
+- **Frameeorks**: Flutter, Express
+- **Tools**: Git, VScode, Xcode, eclips
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
