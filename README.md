@@ -7,7 +7,8 @@ I’m aspiring to become a Mobile engineer!
 ## Skills
 - **Languages**: Dart, Java, JavaScript
 - **Frameeorks**: Flutter, Express
-- **Tools**: Git, VScode, Xcode, eclips
+- **Database**: MySQL
+- **Tools**: Git, VScode, Xcode, eclips, docker
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
