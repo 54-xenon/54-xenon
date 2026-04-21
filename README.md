@@ -1,6 +1,5 @@
 # Hello, I'm GadgetFreak👏
 
-I’m aspiring to become a Mobile engineer!
 ## 2026年の目標
 - **GitHubのコントリビューションを緑化してジャングルにする**
 - **個人のアプリを3つリリースする**
