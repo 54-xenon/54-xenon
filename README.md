@@ -5,17 +5,25 @@
 # Hello, I'm GadgetFreak👏
 
 ## 2026年の目標
+
 - **GitHubのコントリビューションを緑化してジャングルにする**
 - **個人のアプリを3つリリースする**
+- 
+---
 ## Skills
+
 - **Languages**: Dart, Java, JavaScript
 - **Frameeorks**: Flutter, Express
 - **Database**: MySQL
 - **Tools**: Git, VScode, Xcode, eclips, docker
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,javascript,express,mySQL,swift)](https://skillicons.dev)
 
-## Connect with me
-- [X.com](https://x.com/M9zRs0VDM9RTU7B)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54-xenon&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+## Activity
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=54-xenon&hide=contribs,prs)
+
+
+
