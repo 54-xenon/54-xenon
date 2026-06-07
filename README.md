@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=54-xenon" />
+</div>
+
 # Hello, I'm GadgetFreak👏
 
 ## 2026年の目標
