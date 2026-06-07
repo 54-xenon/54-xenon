@@ -9,7 +9,7 @@
 - **Database**: MySQL
 - **Tools**: Git, VScode, Xcode, eclips, docker
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=54-xenon&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Connect with me
 - [X.com](https://x.com/M9zRs0VDM9RTU7B)
