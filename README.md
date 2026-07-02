@@ -8,7 +8,6 @@
 
 - **GitHubのコントリビューションを緑化してジャングルにする**
 - **個人のアプリを3つリリースする**
-- 
 ---
 ## Skills
 
@@ -20,10 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,javascript,express,mySQL,swift)](https://skillicons.dev)
 
 
----
-## Activity
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={54-xenon}&hide=contribs,prs)
 
 
 
